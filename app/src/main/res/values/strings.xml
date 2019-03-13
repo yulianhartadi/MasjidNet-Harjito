@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MasjidNet</string>
+
+    <string name="about_text">The best android implementation of material UI components. This app implemented based on Google Design Guidelines.
+    </string>
+    <string name="compass_hands">Compass Hands</string>
+    <string name="compass_dial">Compass Dial</string>
+    <string name="beta_version">0.06 - RecyclerView</string>
+
+    <string name="action_share_title">Share Doa</string>
+    <string name="action_share_credit">via @MasjidNetApp</string>
+
+    <!-- For Dzikir -->
+    <string name="action_search">Cari</string>
+    <string name="action_bookmarks">Bookmark</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_about">Tentang</string>
+    <string name="action_night_mode">Mode Malam</string>
+    <string name="title_activity_dua_list">List Doa</string>
+    <string name="title_activity_about">Dari</string>
+    <string name="title_activity_bookmarks">Bookmark</string>
+    <string name="search_hint">Cari</string>
+    <string name="title_activity_preferences">Preferensi</string>
+    <string name="month1">Muharram</string>
+    <string name="month2">Safar</string>
+    <string name="month3">Raby` al-awal</string>
+    <string name="month4">Raby` al-THaany</string>
+    <string name="month5">Jumaada al-awal</string>
+    <string name="month6">Jumaada al-THaany</string>
+    <string name="month7">Rajab</string>
+    <string name="month8">Sha`baan</string>
+    <string name="month9">Ramadhan</string>
+    <string name="month10">Shawwal</string>
+    <string name="month11">Thul Qa`dah</string>
+    <string name="month12">Thul Hijjah</string>
+    <string name="month1g">January</string>
+    <string name="month2g">February</string>
+    <string name="month3g">March</string>
+    <string name="month4g">April</string>
+    <string name="month5g">May</string>
+    <string name="month6g">June</string>
+    <string name="month7g">July</string>
+    <string name="month8g">August</string>
+    <string name="month9g">September</string>
+    <string name="month10g">October</string>
+    <string name="month11g">November</string>
+    <string name="month12g">December</string>
+
+</resources>
